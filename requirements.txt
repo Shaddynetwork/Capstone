@@ -1,1 +1,8 @@
 
+All the pip installment are already included in the script, however to execute the code block following packages are key requirment 
+
+1.  pip install yfinance
+2.  pip install arch
+3.  pip install tensorflow
+4.  pip install keras
+5.  pip install graphviz pydot
